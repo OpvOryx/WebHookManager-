@@ -1,4 +1,4 @@
-# WebHookManager-
+# WebHookManager+
 **WebHookManager+**
 WebHookManager+ is a cybersecurity tool that can help you manipulate a WebHook (Often found in discord stealers)
 
